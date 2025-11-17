@@ -2,6 +2,8 @@
 
 This project demonstrates how to use the Microsoft Agent Framework to build AI-powered workflows for data analysis and reporting.
 
+![Introduction](intro.png)
+
 ## Prerequisites
 
 - Python 3.12 or higher
