@@ -1,0 +1,14 @@
+# Core Agent Framework packages
+agent-framework==1.0.0b251114
+agent-framework-azure-ai==1.0.0b251001
+agent-framework-devui==1.0.0b251001
+
+# Azure AI and OpenAI
+azure-ai-agents==1.2.0b5
+azure-ai-projects==1.1.0b4
+azure-core==1.35.1
+azure-identity==1.25.0
+openai==1.109.1
+
+# Environment and utilities
+python-dotenv==1.1.1
